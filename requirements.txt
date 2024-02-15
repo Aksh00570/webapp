@@ -1,0 +1,11 @@
+firebase_admin==6.3.0
+matplotlib==3.8.2
+pandas==2.2.0
+PyAudio==0.2.14
+pyttsx3==2.90
+Requests==2.31.0
+schedule==1.2.1
+seaborn==0.13.2
+streamlit==1.30.0
+vosk==0.3.45
+supabase~=2.3.4
